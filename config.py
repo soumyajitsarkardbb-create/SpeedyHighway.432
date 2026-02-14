@@ -1,0 +1,27 @@
+# Game Configuration Constants
+
+# Display Settings
+DISPLAY_WIDTH = 800
+DISPLAY_HEIGHT = 600
+FPS = 60
+
+# Difficulty Multipliers
+EASY_MULTIPLIER = 1.0
+MEDIUM_MULTIPLIER = 1.5
+HARD_MULTIPLIER = 2.0
+
+# Lane Positions
+LANE_1_POSITION = 100
+LANE_2_POSITION = 300
+LANE_3_POSITION = 500
+
+# Colors
+COLOR_BLACK = (0, 0, 0)
+COLOR_WHITE = (255, 255, 255)
+COLOR_RED = (255, 0, 0)
+COLOR_GREEN = (0, 255, 0)
+COLOR_BLUE = (0, 0, 255)
+
+# Other Magic Numbers
+MAX_SPEED = 10
+MIN_SPEED = 2
